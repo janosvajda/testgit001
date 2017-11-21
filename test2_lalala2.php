@@ -7,3 +7,7 @@
  */
 
 echo "lalalal1";
+
+echo "this is a feature/lalala2";
+
+$a = 1;
